@@ -331,7 +331,7 @@ namespace SimpleExtract
         }
 
         /// <summary>
-        /// Writes the processed data output to 'output.csv'
+        /// Writes the processed data output to 'output.txt'
         /// in current directory and opens for viewing
         /// </summary>
         /// <returns>True if the output file is written successfully otherwise false.</returns>
