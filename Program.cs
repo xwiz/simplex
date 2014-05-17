@@ -263,13 +263,13 @@ namespace SimpleExtract
             {
                 File.WriteAllText(file, "");
             }
-            int runningNo = 1;
             try
             {
                 using (_outputStream = new StreamWriter(file))
                 {
                     foreach (var cReserve in Reserves)
                     {
+                        int runningNo = 1;
                         _outputStream.WriteLine();
                         _outputStream.WriteLine(string.Format("Course: {0} ({1})", cReserve.CourseDescription.Title, cReserve.CourseDescription.Code));
                         _outputStream.WriteLine(string.Format("Lecturer: {0}.", cReserve.Author));

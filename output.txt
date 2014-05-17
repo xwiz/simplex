@@ -21,31 +21,31 @@ Lecturer: Rudy, K. :  Art of Renaissance Italy and Norther.
 Number of items: 11
 Date: 04/11/14
 
-12,The art of Renaissance Venice,Huse, Norbert.,N6921.V5H8,8401346553,MLI,IN LIBRARY,2
-13,The Brancacci Chapel, Florence,Ladis, Andrew, 1949-,ND2757.F6L2,T10100E,MLI,IN LIBRARY,15
-14,The Brancacci Chapel frescoes,Baldini, Umberto.,ND2757.F6B2,JCZM00G,MLI,IN LIBRARY,15
-15,Brunelleschi,Fanelli, Giovanni.,NA1123.B8F2C2,8400108030,MLI,IN LIBRARY,7
-16,Brunelleschi : the complete wo,Brunelleschi, Filipp,NA1123.B8B2,FYJ100U,MLI,IN LIBRARY,3
-17,The classical language of arch,Summerson, John Newe,NA31.S8,8402927843,MLI,IN LIBRARY,0
-18,The dawn of Italian painting,,Smart, Alastair.,ND613.S62,F8BL00C,MLI,IN LIBRARY,0
-19,Donatello,Bennett, Bonnie Apga,NB623.D7B4 Copy 1,GM36007,MLI,IN LIBRARY,1
-20,Donatello : an introduction,Avery, Charles.,NB623.D7A8F5,840000641X,MLI,IN LIBRARY,1
-21,Donatello and his world : scul,Poeschke, Joachim.,NB623.D7P74 Copy 4,8400821709,MLI,IN LIBRARY,4
-22,Donatello : sculptor,Pope-Hennessy, John,NB623.D7P7 Copy 1,JNYZ007,MLTC,IN LIBRARY,0
+1,The art of Renaissance Venice,Huse, Norbert.,N6921.V5H8,8401346553,MLI,IN LIBRARY,2
+2,The Brancacci Chapel, Florence,Ladis, Andrew, 1949-,ND2757.F6L2,T10100E,MLI,IN LIBRARY,15
+3,The Brancacci Chapel frescoes,Baldini, Umberto.,ND2757.F6B2,JCZM00G,MLI,IN LIBRARY,15
+4,Brunelleschi,Fanelli, Giovanni.,NA1123.B8F2C2,8400108030,MLI,IN LIBRARY,7
+5,Brunelleschi : the complete wo,Brunelleschi, Filipp,NA1123.B8B2,FYJ100U,MLI,IN LIBRARY,3
+6,The classical language of arch,Summerson, John Newe,NA31.S8,8402927843,MLI,IN LIBRARY,0
+7,The dawn of Italian painting,,Smart, Alastair.,ND613.S62,F8BL00C,MLI,IN LIBRARY,0
+8,Donatello,Bennett, Bonnie Apga,NB623.D7B4 Copy 1,GM36007,MLI,IN LIBRARY,1
+9,Donatello : an introduction,Avery, Charles.,NB623.D7A8F5,840000641X,MLI,IN LIBRARY,1
+10,Donatello and his world : scul,Poeschke, Joachim.,NB623.D7P74 Copy 4,8400821709,MLI,IN LIBRARY,4
+11,Donatello : sculptor,Pope-Hennessy, John,NB623.D7P7 Copy 1,JNYZ007,MLTC,IN LIBRARY,0
 
 Course: Art History (AH1001ULP)
 Lecturer: Rudy, K. :  Art of Renaissance Italy and Norther.
 Number of items: 11
 Date: 04/11/14
 
-23,The drawings of Leonardo da Vi,Leonardo, da Vinci,,ND623.V3P8F94,JYVV01Y,MLI,IN LIBRARY,0
-24,D�rer : paintings, prints, dra,Strieder, Peter, 191,ND588.D9S8,GV0J00Z,MLI,IN LIBRARY,17
-25,Early Netherlandish painting :,Panofsky, Erwin, 189,ND635.P2F71 1 (Text),DX7B04H,MLI,IN LIBRARY,14
-26,Early Netherlandish painting :,Panofsky, Erwin, 189,ND635.P2F71 2 (Plates),DX7B05J,MLI,IN LIBRARY,1
-27,Early Netherlandish painting.,Friedl�nder, Max Jul,ND635.F8E2;1,DNP200W,MLI,IN LIBRARY,3
-28,Early Netherlandish triptychs,Blum, Shirley Neilse,ND669.F5B6,8405770770,MLI,IN LIBRARY,2
-29,Filippo Brunelleschi, 1377-144,G�rtner, Peter J.,NA1123.B8G2,8401249742,MLI,IN LIBRARY,2
-30,Filippo Brunelleschi : the bui,Saalman, Howard.,NA1123.B8S22F5,UGH300P,MLI,IN LIBRARY,2
-31,Filippo Brunelleschi : the ear,Klotz, Heinrich.,NA1123.B8K6,8400677208,MLI,IN LIBRARY,4
-32,Florentine Renaissance sculptu,Avery, Charles.,NB621.F7A8 Copy 1,GXL703F,MLI,IN LIBRARY,10
-33,Florentine Renaissance sculptu,Avery, Charles.,NB621.F7A8 Copy 5,GXL704G,MLTC,IN LIBRARY,9
+1,The drawings of Leonardo da Vi,Leonardo, da Vinci,,ND623.V3P8F94,JYVV01Y,MLI,IN LIBRARY,0
+2,D�rer : paintings, prints, dra,Strieder, Peter, 191,ND588.D9S8,GV0J00Z,MLI,IN LIBRARY,17
+3,Early Netherlandish painting :,Panofsky, Erwin, 189,ND635.P2F71 1 (Text),DX7B04H,MLI,IN LIBRARY,14
+4,Early Netherlandish painting :,Panofsky, Erwin, 189,ND635.P2F71 2 (Plates),DX7B05J,MLI,IN LIBRARY,1
+5,Early Netherlandish painting.,Friedl�nder, Max Jul,ND635.F8E2;1,DNP200W,MLI,IN LIBRARY,3
+6,Early Netherlandish triptychs,Blum, Shirley Neilse,ND669.F5B6,8405770770,MLI,IN LIBRARY,2
+7,Filippo Brunelleschi, 1377-144,G�rtner, Peter J.,NA1123.B8G2,8401249742,MLI,IN LIBRARY,2
+8,Filippo Brunelleschi : the bui,Saalman, Howard.,NA1123.B8S22F5,UGH300P,MLI,IN LIBRARY,2
+9,Filippo Brunelleschi : the ear,Klotz, Heinrich.,NA1123.B8K6,8400677208,MLI,IN LIBRARY,4
+10,Florentine Renaissance sculptu,Avery, Charles.,NB621.F7A8 Copy 1,GXL703F,MLI,IN LIBRARY,10
+11,Florentine Renaissance sculptu,Avery, Charles.,NB621.F7A8 Copy 5,GXL704G,MLTC,IN LIBRARY,9
