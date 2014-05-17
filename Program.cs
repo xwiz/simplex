@@ -99,7 +99,7 @@ namespace SimpleExtract
                 //iterate through each character to retrieve data and store appropriately
                 while (!_inputStream.EndOfStream)
                 {
-                    char c = (char) _inputStream.Read();
+                    char c = (char)_inputStream.Read();
                     if (c == '\r' || c == '\n')
                     {
                         continue;
@@ -122,7 +122,7 @@ namespace SimpleExtract
                         {
                             //check if the next char is whitespace too so we can store item element
                             string s = sb.ToString().Trim();
-                            if (s != "" && Char.IsWhiteSpace((char) _inputStream.Peek()))
+                            if (s != "" && Char.IsWhiteSpace((char)_inputStream.Peek()))
                             {
                                 //try begin item extract
                                 switch (itemNo)
@@ -259,7 +259,7 @@ namespace SimpleExtract
         /// <returns>True if operation completes successfully, otherwise false</returns>
         private bool GenerateResult(string file)
         {
-            if(!File.Exists(file))
+            if (!File.Exists(file))
             {
                 File.WriteAllText(file, "");
             }
@@ -270,6 +270,13 @@ namespace SimpleExtract
                 {
                     foreach (var cReserve in Reserves)
                     {
+                        _outputStream.WriteLine();
+                        _outputStream.WriteLine(string.Format("Course: {0} ({1})", cReserve.CourseDescription.Title, cReserve.CourseDescription.Code));
+                        _outputStream.WriteLine(string.Format("Lecturer: {0}.", cReserve.Author));
+                        _outputStream.WriteLine(string.Format("Number of items: {0}", cReserve.Items.Count));
+                        _outputStream.WriteLine(string.Format("Date: {0}", cReserve.Date.ToString("dd/MM/yy")));
+                        _outputStream.WriteLine();
+
                         foreach (var item in cReserve.Items)
                         {
                             _outputStream.WriteLine(string.Format("{0},{1},{2},{3},{4},{5},{6},{7}", runningNo,
